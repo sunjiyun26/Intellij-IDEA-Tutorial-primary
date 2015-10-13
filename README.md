@@ -7,6 +7,7 @@
 > * 5.在Ubuntu 下安装
 > * 6.在mac 下安装
 > * 7.初体验（Hello world）
+
 ## 二.Intellij IEA 基本常识
 > * 8.基本概念认识
 > * 9.文件图标的认识
