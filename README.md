@@ -1,5 +1,5 @@
 # 前言
-## 一.Intellij IEA 初体验
+### 一.Intellij IEA 初体验
 > * 1.Intellij IDEA 家族介绍
 > * 2.Intellij IDEA 特性介绍
 > * 3.Intellij IDEA 原理和学习指南
@@ -8,7 +8,7 @@
 > * 6.在mac 下安装
 > * 7.初体验（Hello world）
 
-## 二.Intellij IEA 基本常识
+### 二.Intellij IEA 基本常识
 > * 8.基本概念认识
 > * 9.文件图标的认识
 > * 9.全局基本配置
@@ -16,14 +16,14 @@
 > * 11.必备快捷键的讲解
 > * 12.Run/Debug 讲解
 
-## 三.版本控制篇
+### 三.版本控制篇
 > * 1 版本控制总介绍
 > * 2 svn 集成
 > * 3 svn 简单使用
 > * 4 git 集成
 > * 5 git 简单使用
 
-## 四.搭建项目篇
+### 四.搭建项目篇
 > * 1.导入项目 总结
 > * 2 导入eclipse项目（非maven，非gradle）
 > * 3 导入maven项目
@@ -34,7 +34,7 @@
 > * 8 创建SSH+Maven的web项目
 > * 9 创建SSH+Gradle的web项目
 
-## 五.疑难杂症篇
+### 五.疑难杂症篇
 > * 1.IDEA 常见错误解决办法
 > * 2.控制台中文乱码
 > * 3.java 文件 变成 ‘j’ 开头图标无法运行
@@ -47,7 +47,7 @@
 > * 10.无效的JDK 1.7 目标源文件
 > * 11.java 程序报错。Project language level 设置不对
 
-## 六.拓展篇
+### 六.拓展篇
 > * 1 Java 热部署插件 JRebel 安装及使用
 > * 2 代码重构技巧
 > * 3 相同文件对比功能
@@ -64,8 +64,8 @@
 > * 14.在Intellij IDEA 里面调试 JavaScript
 > * 15.在Intellij IDEA 里面创建的项目导出 符合 eclipse 格式的项目
 
-##  交流方式
+## 交流方式
 > * IDEA 后端开发 (10106666)
 
-##  提问方式
+## 提问方式
 > * 智慧的提问
