@@ -1,7 +1,5 @@
 # 前言
-## 教程的介绍
-
-## 二.Intellij IEA 初体验
+## 一.Intellij IEA 初体验
 > * 1.Intellij IDEA 家族介绍
 > * 2.Intellij IDEA 特性介绍
 > * 3.Intellij IDEA 原理和学习指南
