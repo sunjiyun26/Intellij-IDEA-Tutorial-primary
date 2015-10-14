@@ -1,5 +1,5 @@
 # 前言
-### 一.Intellij IEA 初体验
+### 一.Intellij IDEA 初体验
 > * 1.Intellij IDEA 家族介绍
 > * 2.Intellij IDEA 特性介绍
 > * 3.Intellij IDEA 原理和学习指南
@@ -8,7 +8,7 @@
 > * 6.在mac 下安装
 > * 7.初体验（Hello world）
 
-### 二.Intellij IEA 基本常识
+### 二.Intellij IDEA 基本常识
 > * 8.基本概念认识
 > * 9.文件图标的认识
 > * 9.全局基本配置
