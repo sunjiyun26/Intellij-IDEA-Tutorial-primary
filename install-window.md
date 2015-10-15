@@ -40,11 +40,15 @@
 ![第4步](images/installs/windows/004.jpg)
 > *  编号1：勾选，表示创建桌面快捷方式。
 > *  编号2：勾选后表示默认打开java文件和groovy使用Intellij IDEA 打开，建议不勾选。
-#### 第5步
+
+
+####  第5步
 ![第5步](images/installs/windows/005.png)
-#### 第6步
+
+####  第6步
 ![第6步](images/installs/windows/006.png)
-#### 第7步
+
+####  第7步
 ![第7步](images/installs/windows/007.png)
 > *  安装成功，点击`Fish`立即启动
 
@@ -74,6 +78,7 @@
 ![第12步](images/installs/windows/112.jpg)
 #### 第5步
 ![第13步](images/installs/windows/113.png)
+
 > ##### 编号1
 >  ![第13步](images/installs/windows/114.png)
 > ##### 编号2
