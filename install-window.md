@@ -79,6 +79,8 @@
 #### 第5步
 ![第13步](images/installs/windows/113.png)
 
+> ##### 对上图的编号中的编号进行简单的讲解
+
 > ##### 编号1
 >  ![第13步](images/installs/windows/114.png)
 > ##### 编号2
