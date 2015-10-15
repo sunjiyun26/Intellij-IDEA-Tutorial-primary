@@ -1,25 +1,25 @@
-##  Windows ÏµÍ³ÏÂ°²×° IntelliJ IDEA
+##  Windows ç³»ç»Ÿä¸‹å®‰è£… IntelliJ IDEA
 
-### ±¾Ì×½Ì³ÌËùÓÃ¹¤¾ß°æ±¾ËµÃ÷
-> * Intellij IDEA µÄ°æ±¾£º`ideaIU-14.1.4`
-> * JDK°æ±¾£º`jdk-7u80-windows-x64`
-> * Maven£º`apache-maven-3.0.5`
-> * Gradle£º` gradle-2.3`
-> * Tomcat£º`apache-tomcat-7.0.62`
+### æœ¬å¥—æ•™ç¨‹æ‰€ç”¨å·¥å…·ç‰ˆæœ¬è¯´æ˜
+> * Intellij IDEA çš„ç‰ˆæœ¬ï¼š`ideaIU-14.1.4`
+> * JDKç‰ˆæœ¬ï¼š`jdk-7u80-windows-x64`
+> * Mavenï¼š`apache-maven-3.0.5`
+> * Gradleï¼š` gradle-2.3`
+> * Tomcatï¼š`apache-tomcat-7.0.62`
 
-### ¹Ù·½ÏµÍ³ÅäÖÃÒªÇó
+### å®˜æ–¹ç³»ç»Ÿé…ç½®è¦æ±‚
 > *  Microsoft Windows 8/7/Vista/2003/XP (incl.64-bit)
 > *  1 GB RAM minimum, 2 GB RAM recommended
 > *  300 MB hard disk space + at least 1 G for caches
 > *  1024x768 minimum screen resolution
 > *  JDK 1.6 or higher
 
-### ÏµÍ³»·¾³±äÁ¿ÅäÖÃÒªÇó
-> *  ÅäÖÃJAVA_HOMEµÄ»·¾³±äÁ¿(`JDK 1.6` ÒÔÉÏ)
-> *  ¹¹½¨Maven ÏîÄ¿£¬ÇëÏÈÅäÖÃMavenµÄ»·¾³±äÁ¿(`¿ÉÑ¡`£¬Intellij 14 ÒÔÉÏ°æ±¾×Ô´ø maven 3 ºÍ maven 2 °æ±¾)
-> *  ¹¹½¨Gradle ÏîÄ¿£¬ÇëÏÈÅäÖÃGradle µÄ»·¾³±äÁ¿(¾ßÌå²Ù×÷°Ù¶È)
+### ç³»ç»Ÿç¯å¢ƒå˜é‡é…ç½®è¦æ±‚
+> *  é…ç½®JAVA_HOMEçš„ç¯å¢ƒå˜é‡(`JDK 1.6` ä»¥ä¸Š)
+> *  æ„å»ºMaven é¡¹ç›®ï¼Œè¯·å…ˆé…ç½®Mavençš„ç¯å¢ƒå˜é‡(`å¯é€‰`ï¼ŒIntellij 14 ä»¥ä¸Šç‰ˆæœ¬è‡ªå¸¦ maven 3 å’Œ maven 2 ç‰ˆæœ¬)
+> *  æ„å»ºGradle é¡¹ç›®ï¼Œè¯·å…ˆé…ç½®Gradle çš„ç¯å¢ƒå˜é‡(å…·ä½“æ“ä½œç™¾åº¦)
 
-### ¹Ù·½ÏÂÔØµØÖ·
+### å®˜æ–¹ä¸‹è½½åœ°å€
 > *  Intellij IDEA:  <https://confluence.jetbrains.com/display/IntelliJIDEA/Previous+IntelliJ+IDEA+Releases>
 > *  JDK 1.6 :  <http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase6-419409.html#jdk-6u21-oth-JPR>
 > *  JDK 1.7 :  <http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html>
@@ -27,98 +27,104 @@
 > *  Maven   : <http://maven.apache.org/download.cgi>
 > *  Gradle  :  <http://gradle.org/gradle-download/>
 
-### Ê×´Î°²×°
-> *   Intellij IDEA °²×°ËÙ¶ÈºÜ¿ì£¬·Ç³£¼òµ¥¡£»ù±¾¶¼ÊÇÄ¬ÈÏÏÂÒ»²½¼´¿É£¬ÈçÓĞ²»Í¬£¬»áÓĞÌØÊâËµÃ÷¡£
-#### µÚ1²½
-![µÚ1²½](images/installs/windows/001.png)
-#### µÚ2²½
-![µÚ2²½](images/installs/windows/002.png)
-#### µÚ3²½
-![µÚ3²½](images/installs/windows/003.png)
-#### µÚ4²½
-![µÚ4²½](images/installs/windows/004.jpg)
-> *  ±àºÅ1£º¹´Ñ¡£¬±íÊ¾´´½¨×ÀÃæ¿ì½İ·½Ê½¡£
-> *  ±àºÅ2£º¹´Ñ¡ºó±íÊ¾Ä¬ÈÏ´ò¿ªjavaÎÄ¼şºÍgroovyÊ¹ÓÃIntellij IDEA ´ò¿ª£¬½¨Òé²»¹´Ñ¡¡£
-#### µÚ5²½
-![µÚ5²½](images/installs/windows/005.png)
-#### µÚ6²½
-![µÚ6²½](images/installs/windows/006.png)
-#### µÚ7²½
-![µÚ7²½](images/installs/windows/007.png)
-> *  °²×°³É¹¦£¬µã»÷`Fish`Á¢¼´Æô¶¯
+### é¦–æ¬¡å®‰è£…
+> *   Intellij IDEA å®‰è£…é€Ÿåº¦å¾ˆå¿«ï¼Œéå¸¸ç®€å•ã€‚åŸºæœ¬éƒ½æ˜¯é»˜è®¤ä¸‹ä¸€æ­¥å³å¯ï¼Œå¦‚æœ‰ä¸åŒï¼Œä¼šæœ‰ç‰¹æ®Šè¯´æ˜ã€‚
 
-### Ê×´ÎÆô¶¯
+#### ç¬¬1æ­¥
+![ç¬¬1æ­¥](images/installs/windows/001.png)
+#### ç¬¬2æ­¥
+![ç¬¬2æ­¥](images/installs/windows/002.png)
+#### ç¬¬3æ­¥
+![ç¬¬3æ­¥](images/installs/windows/003.png)
+#### ç¬¬4æ­¥
+![ç¬¬4æ­¥](images/installs/windows/004.jpg)
+> *  ç¼–å·1ï¼šå‹¾é€‰ï¼Œè¡¨ç¤ºåˆ›å»ºæ¡Œé¢å¿«æ·æ–¹å¼ã€‚
+> *  ç¼–å·2ï¼šå‹¾é€‰åè¡¨ç¤ºé»˜è®¤æ‰“å¼€javaæ–‡ä»¶å’Œgroovyä½¿ç”¨Intellij IDEA æ‰“å¼€ï¼Œå»ºè®®ä¸å‹¾é€‰ã€‚
 
-#### Æô¶¯»­Ãæ
-![Æô¶¯»­Ãæ](images/installs/windows/008.png)
-#### µÚ1²½
-![Æô¶¯»­Ãæ](images/installs/windows/009.jpg)
-> * ½øÈëIntellij IDEA Èí¼şµÄÅäÖÃÎÄ¼şµÄÑ¡ÔñÄ¿Â¼.
-1.ĞÂ°²×°µÄ»°£¬ÊÇÃ»ÓĞÕâ¸öÅäÖÃÎÄ¼şµÄ¡£Ö±½ÓÑ¡Ôñ'OK'
-2.µÚ¶ş´Î°²×°£¬Èç¹ûÏëÊ¹ÓÃÒÔÇ°Intellij IDEA µÄÅäÖÃÎÄ¼ş£¬ÇëÑ¡Ôñ¢Ù
-> * Õâ¸öÅäÖÃÎÄ¼şÄ¬ÈÏÉú³ÉµÄÄ¿Â¼£ºC:\Users\ `¼ÆËã»úÓÃ»§Ãû`\\.IntelliJIdea14
 
-#### µÚ2²½
-![µÚ10²½](images/installs/windows/110.png)
-> * ÊäÈëÃØÔ¿¡£
-> * ÏÂÔØ×¢²á»ú
-> * ËÑË÷ÔÚÏß×¢²áµÄÍøÕ¾
-> * ¼ÓÈëQQÈº£º<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=cf27f5debc95d432ec9192af231e837587949fe964b8179e1a0670d8e4690f7d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA ºó¶Ë¿ª·¢ (10106666)" title="IDEA ºó¶Ë¿ª·¢ (10106666)"></a>£¬¿´Èº¹«¸æ»ñÈ¡.
-> * `×¢£ºÒÔÉÏÆÆ½âIntellij IDEA µÄ·½Ê½,½ö¹©¸öÈË¿ª·¢Ñ§Ï°Ê¹ÓÃ£¬ÇëÇóÖ§³ÖÕı°æ`
-> * [¹ºÂòÕı°æµØÖ·](https://www.jetbrains.com/idea/download/)
+####  ç¬¬5æ­¥
+![ç¬¬5æ­¥](images/installs/windows/005.png)
 
-#### µÚ3²½
-![µÚ11²½](images/installs/windows/111.png)
-#### µÚ4²½
-![µÚ12²½](images/installs/windows/112.jpg)
-#### µÚ5²½
-![µÚ13²½](images/installs/windows/113.png)
-> ##### ±àºÅ1
->  ![µÚ13²½](images/installs/windows/114.png)
-> ##### ±àºÅ2
->  ![µÚ13²½](images/installs/windows/115.png)
-> ##### ±àºÅ3
->  ![µÚ13²½](images/installs/windows/116.png)
-> ##### ±àºÅ4
->  ![µÚ13²½](images/installs/windows/117.png)
-> ##### ±àºÅ5
->  ![µÚ13²½](images/installs/windows/118.png)
-> ##### ±àºÅ6
->  ![µÚ13²½](images/installs/windows/119.png)
-> ##### ±àºÅ7
->  ![µÚ13²½](images/installs/windows/120.png)
-> ##### ±àºÅ11
->  ![µÚ13²½](images/installs/windows/121.png)
-#### µÚ6²½
-![µÚ14²½](images/installs/windows/122.png)
-#### µÚ7²½
-![µÚ15²½](images/installs/windows/123.png)
+####  ç¬¬6æ­¥
+![ç¬¬6æ­¥](images/installs/windows/006.png)
 
-## ÒÑÓĞ¾É°æ±¾°²×°ĞÂ°æ±¾
+####  ç¬¬7æ­¥
+![ç¬¬7æ­¥](images/installs/windows/007.png)
+> *  å®‰è£…æˆåŠŸï¼Œç‚¹å‡»`Fish`ç«‹å³å¯åŠ¨
 
-![ÒÑÓĞ¾É°æ±¾°²×°ĞÂ°æ±¾²½Öè½ØÍ¼](images/installs/windows/iii-b-repeatedly-install-1.jpg)
+### é¦–æ¬¡å¯åŠ¨
 
-![ÒÑÓĞ¾É°æ±¾°²×°ĞÂ°æ±¾²½Öè½ØÍ¼](images/installs/windows/iii-b-repeatedly-install-2.jpg)
+#### å¯åŠ¨ç”»é¢
+![å¯åŠ¨ç”»é¢](images/installs/windows/008.png)
+#### ç¬¬1æ­¥
+![å¯åŠ¨ç”»é¢](images/installs/windows/009.jpg)
+> * è¿›å…¥Intellij IDEA è½¯ä»¶çš„é…ç½®æ–‡ä»¶çš„é€‰æ‹©ç›®å½•.
+1.æ–°å®‰è£…çš„è¯ï¼Œæ˜¯æ²¡æœ‰è¿™ä¸ªé…ç½®æ–‡ä»¶çš„ã€‚ç›´æ¥é€‰æ‹©'OK'
+2.ç¬¬äºŒæ¬¡å®‰è£…ï¼Œå¦‚æœæƒ³ä½¿ç”¨ä»¥å‰Intellij IDEA çš„é…ç½®æ–‡ä»¶ï¼Œè¯·é€‰æ‹©â‘ 
+> * è¿™ä¸ªé…ç½®æ–‡ä»¶é»˜è®¤ç”Ÿæˆçš„ç›®å½•ï¼šC:\Users\ `è®¡ç®—æœºç”¨æˆ·å`\\.IntelliJIdea14
 
-> * ÉÏÍ¼£¬ÏÔÊ¾ÎÒÄ¿Ç°µçÄÔÖĞÒÑ¾­ÓĞÒ»¸ö IntelliJ IDEA °æ±¾£¬Èç¹ûÎÒ¹´Ñ¡ÁË±ê¼Ç 1£¬Ôò±íÊ¾°²×°Ö®Ç°»áÏÈĞ¶ÔØµôµçÄÔÉÏµÄ¾É°æ±¾¡£
-> * ÉÏÍ¼±ê¼Ç 2£¬Èç¹û¹´Ñ¡ÁË£¬Ôò IntelliJ IDEA ÔÚĞ¶ÔØ¾É°æ±¾µÄÊ±ºòÖ±½ÓÉ¾³ıµôÄã¾É°æ±¾µÄ¸öĞÔ»¯ÉèÖÃ£¬`£¨É÷ÖØ¹´Ñ¡£©`¡£
-> * IntelliJ IDEA ÊÇÖ§³ÖÒ»Ì¨µçÄÔ×°¶à¸ö´ó°æ±¾µÄ¡£±ÈÈç¿ÉÒÔÍ¬Ê±×°` Intellij IDEA 13 ÏµÁĞµÄ°æ±¾`ºÍ`Intellij IDEA 14 ÏµÁĞµÄ°æ±¾`¡£
-> * ½ÓÏÂÀ´µÄ²½ÖèÎÒÃÇ¼ÙÉè¹´Ñ¡ÁË±ê¼Ç  1 ÔÙ½øĞĞ°²×°¡£
+#### ç¬¬2æ­¥
+![ç¬¬10æ­¥](images/installs/windows/110.png)
+> * è¾“å…¥ç§˜é’¥ã€‚
+> * ä¸‹è½½æ³¨å†Œæœº
+> * æœç´¢åœ¨çº¿æ³¨å†Œçš„ç½‘ç«™
+> * åŠ å…¥QQç¾¤ï¼š<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=cf27f5debc95d432ec9192af231e837587949fe964b8179e1a0670d8e4690f7d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA åç«¯å¼€å‘ (10106666)" title="IDEA åç«¯å¼€å‘ (10106666)"></a>ï¼Œçœ‹ç¾¤å…¬å‘Šè·å–.
+> * `æ³¨ï¼šä»¥ä¸Šç ´è§£Intellij IDEA çš„æ–¹å¼,ä»…ä¾›ä¸ªäººå¼€å‘å­¦ä¹ ä½¿ç”¨ï¼Œè¯·æ±‚æ”¯æŒæ­£ç‰ˆ`
+> * [è´­ä¹°æ­£ç‰ˆåœ°å€](https://www.jetbrains.com/idea/download/)
 
-![ÒÑÓĞ¾É°æ±¾°²×°ĞÂ°æ±¾²½Öè½ØÍ¼](images/installs/windows/iii-b-repeatedly-install-3.jpg)
+#### ç¬¬3æ­¥
+![ç¬¬11æ­¥](images/installs/windows/111.png)
+#### ç¬¬4æ­¥
+![ç¬¬12æ­¥](images/installs/windows/112.jpg)
+#### ç¬¬5æ­¥
+![ç¬¬13æ­¥](images/installs/windows/113.png)
 
-> * ÉÏÍ¼£¬ÓÉÓÚÉÏÒ»²½¹´Ñ¡ÁËĞ¶ÔØ¾É°æ±¾Ñ¡Ïî£¬ËùÒÔ³öÏÖÁËÑ¡ÔñÉ¾³ı¾É°æ±¾µÄÅäÖÃÑ¡Ïî¡£
-> * µÚÒ»¸öÑ¡Ïî£ºÉ¾³ı¾É°æ±¾µÄ»º´æºÍ±¾µØÀúÊ·¼ÇÂ¼¡£`£¨É÷ÖØ¹´Ñ¡£©`
-> * µÚ¶ş¸öÑ¡Ïî£ºÉ¾³ı¾É°æ±¾µÄ¸öÈË¸öĞÔ»¯ÉèÖÃ¡£`£¨É÷ÖØ¹´Ñ¡£©`
-> * µã»÷ uninstall£¬½øÈëÈ«×Ô¶¯µÄĞ¶ÔØ¹ı³Ì£¬Ğ¶ÔØÍê³É½ÓÏÂÀ´µÄ²½Öè¸úÉÏÎÄ`Ê×´Î°²×°`Ò»ÖÂ£¬ÕâÀï²»ÔÙ½øĞĞËµÃ÷¡£
+> ##### ç¼–å·1
+>  ![ç¬¬13æ­¥](images/installs/windows/114.png)
+> ##### ç¼–å·2
+>  ![ç¬¬13æ­¥](images/installs/windows/115.png)
+> ##### ç¼–å·3
+>  ![ç¬¬13æ­¥](images/installs/windows/116.png)
+> ##### ç¼–å·4
+>  ![ç¬¬13æ­¥](images/installs/windows/117.png)
+> ##### ç¼–å·5
+>  ![ç¬¬13æ­¥](images/installs/windows/118.png)
+> ##### ç¼–å·6
+>  ![ç¬¬13æ­¥](images/installs/windows/119.png)
+> ##### ç¼–å·7
+>  ![ç¬¬13æ­¥](images/installs/windows/120.png)
+> ##### ç¼–å·11
+>  ![ç¬¬13æ­¥](images/installs/windows/121.png)
+#### ç¬¬6æ­¥
+![ç¬¬14æ­¥](images/installs/windows/122.png)
+#### ç¬¬7æ­¥
+![ç¬¬15æ­¥](images/installs/windows/123.png)
 
-## Ğ¶ÔØ
+## å·²æœ‰æ—§ç‰ˆæœ¬å®‰è£…æ–°ç‰ˆæœ¬
 
-> * Ğ¶ÔØ¹ı³ÌÍêÕû½ØÍ¼
+![å·²æœ‰æ—§ç‰ˆæœ¬å®‰è£…æ–°ç‰ˆæœ¬æ­¥éª¤æˆªå›¾](images/installs/windows/iii-b-repeatedly-install-1.jpg)
 
-![Ğ¶ÔØ](images/installs/windows/iii-c-uninstall-1.jpg)
+![å·²æœ‰æ—§ç‰ˆæœ¬å®‰è£…æ–°ç‰ˆæœ¬æ­¥éª¤æˆªå›¾](images/installs/windows/iii-b-repeatedly-install-2.jpg)
 
-![Ğ¶ÔØ](images/installs/windows/iii-c-uninstall-2.jpg)
+> * ä¸Šå›¾ï¼Œæ˜¾ç¤ºæˆ‘ç›®å‰ç”µè„‘ä¸­å·²ç»æœ‰ä¸€ä¸ª IntelliJ IDEA ç‰ˆæœ¬ï¼Œå¦‚æœæˆ‘å‹¾é€‰äº†æ ‡è®° 1ï¼Œåˆ™è¡¨ç¤ºå®‰è£…ä¹‹å‰ä¼šå…ˆå¸è½½æ‰ç”µè„‘ä¸Šçš„æ—§ç‰ˆæœ¬ã€‚
+> * ä¸Šå›¾æ ‡è®° 2ï¼Œå¦‚æœå‹¾é€‰äº†ï¼Œåˆ™ IntelliJ IDEA åœ¨å¸è½½æ—§ç‰ˆæœ¬çš„æ—¶å€™ç›´æ¥åˆ é™¤æ‰ä½ æ—§ç‰ˆæœ¬çš„ä¸ªæ€§åŒ–è®¾ç½®ï¼Œ`ï¼ˆæ…é‡å‹¾é€‰ï¼‰`ã€‚
+> * IntelliJ IDEA æ˜¯æ”¯æŒä¸€å°ç”µè„‘è£…å¤šä¸ªå¤§ç‰ˆæœ¬çš„ã€‚æ¯”å¦‚å¯ä»¥åŒæ—¶è£…` Intellij IDEA 13 ç³»åˆ—çš„ç‰ˆæœ¬`å’Œ`Intellij IDEA 14 ç³»åˆ—çš„ç‰ˆæœ¬`ã€‚
+> * æ¥ä¸‹æ¥çš„æ­¥éª¤æˆ‘ä»¬å‡è®¾å‹¾é€‰äº†æ ‡è®°  1 å†è¿›è¡Œå®‰è£…ã€‚
 
-![Ğ¶ÔØ](images/installs/windows/iii-c-uninstall-3.jpg)
+![å·²æœ‰æ—§ç‰ˆæœ¬å®‰è£…æ–°ç‰ˆæœ¬æ­¥éª¤æˆªå›¾](images/installs/windows/iii-b-repeatedly-install-3.jpg)
+
+> * ä¸Šå›¾ï¼Œç”±äºä¸Šä¸€æ­¥å‹¾é€‰äº†å¸è½½æ—§ç‰ˆæœ¬é€‰é¡¹ï¼Œæ‰€ä»¥å‡ºç°äº†é€‰æ‹©åˆ é™¤æ—§ç‰ˆæœ¬çš„é…ç½®é€‰é¡¹ã€‚
+> * ç¬¬ä¸€ä¸ªé€‰é¡¹ï¼šåˆ é™¤æ—§ç‰ˆæœ¬çš„ç¼“å­˜å’Œæœ¬åœ°å†å²è®°å½•ã€‚`ï¼ˆæ…é‡å‹¾é€‰ï¼‰`
+> * ç¬¬äºŒä¸ªé€‰é¡¹ï¼šåˆ é™¤æ—§ç‰ˆæœ¬çš„ä¸ªäººä¸ªæ€§åŒ–è®¾ç½®ã€‚`ï¼ˆæ…é‡å‹¾é€‰ï¼‰`
+> * ç‚¹å‡» uninstallï¼Œè¿›å…¥å…¨è‡ªåŠ¨çš„å¸è½½è¿‡ç¨‹ï¼Œå¸è½½å®Œæˆæ¥ä¸‹æ¥çš„æ­¥éª¤è·Ÿä¸Šæ–‡`é¦–æ¬¡å®‰è£…`ä¸€è‡´ï¼Œè¿™é‡Œä¸å†è¿›è¡Œè¯´æ˜ã€‚
+
+## å¸è½½
+
+> * å¸è½½è¿‡ç¨‹å®Œæ•´æˆªå›¾
+
+![å¸è½½](images/installs/windows/iii-c-uninstall-1.jpg)
+
+![å¸è½½](images/installs/windows/iii-c-uninstall-2.jpg)
+
+![å¸è½½](images/installs/windows/iii-c-uninstall-3.jpg)
 
