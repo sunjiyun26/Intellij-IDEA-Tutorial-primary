@@ -46,6 +46,8 @@
 > * 9.java文件被排除编译了导致找不到类
 > * 10.无效的JDK 1.7 目标源文件
 > * 11.java 程序报错。Project language level 设置不对
+> * 12.idea14 输入中文的时候  输入法候选框不跟随光标 一直在右下角
+> * 13.idea 怎么改变package 的结构
 
 ### 六.拓展篇
 > * 1 Java 热部署插件 JRebel 安装及使用
@@ -65,7 +67,10 @@
 > * 15.在Intellij IDEA 里面创建的项目导出 符合 eclipse 格式的项目
 
 ## 交流方式
-> * IDEA 后端开发 (10106666)
+> * Intellij IDEA 后端开发群:10106666  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=cf27f5debc95d432ec9192af231e837587949fe964b8179e1a0670d8e4690f7d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA 后端开发 (10106666)" title="IDEA 后端开发 (10106666)"></a>
+> * Intellij IDEA 前端开发群:10105555  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=9bc1be7de3c1c30d8aaa8480f5a989974c13bf7e3b0fc9a3bfdfbf98db570d3f"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA 前端开发 (10105555)" title="IDEA 前端开发 (10105555)"></a>
+> * Intellij IDEA 开源社①群: 185441009  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=fc28b234bd59265282ef87fd1b1a7e8602b4a3a136435a8ada1253058438ec85"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="©IntelliJ IDEA开源社①群" title="©IntelliJ IDEA开源社①群"></a>
+> * Intellij IDEA 开源社②群: 304701403  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=7de7efb98aee832de969586385958a595ef97e3a87a2852fa57d5aa394f56dcb"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="©IntelliJ IDEA开源社②群" title="©IntelliJ IDEA开源社②群"></a>
 
 ## 提问方式
 > * 智慧的提问
