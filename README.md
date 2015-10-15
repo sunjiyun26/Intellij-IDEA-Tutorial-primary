@@ -3,7 +3,7 @@
 > * 1.Intellij IDEA 家族介绍
 > * 2.Intellij IDEA 特性介绍
 > * 3.Intellij IDEA 原理和学习指南
-> * 4.在window 下安装(以window 版为主)
+> * 4.[在window 下安装](install-window.md)
 > * 5.在Ubuntu 下安装
 > * 6.在mac 下安装
 > * 7.初体验（Hello world）
@@ -56,15 +56,16 @@
 > * 4.intellij idea 打包，jar包，war包
 > * 5.hibernate，mybatis 生成实体类
 > * 6.生成Construct get，set .toString 方法
-> * 7.生成 serialVersionUID
-> * 8.生成 UUID
-> * 9.自定义代码模板
-> * 10.保存自己的IDEA配置
-> * 11.项目中添加本地的JAR的方法
-> * 12.神奇的列编辑功能
-> * 13.神器的复制功能
-> * 14.在Intellij IDEA 里面调试 JavaScript
-> * 15.在Intellij IDEA 里面创建的项目导出 符合 eclipse 格式的项目
+> * 7.重写，实现接口方法
+> * 8.生成 serialVersionUID
+> * 9.生成 UUID
+> * 10.自定义代码模板
+> * 11.保存自己的IDEA配置
+> * 12.项目中添加本地的JAR的方法
+> * 13.神奇的列编辑功能
+> * 14.神器的复制功能
+> * 15.在Intellij IDEA 里面调试 JavaScript
+> * 16.在Intellij IDEA 里面创建的项目导出 符合 eclipse 格式的项目
 
 ## 交流方式
 > * Intellij IDEA 后端开发群:10106666  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=cf27f5debc95d432ec9192af231e837587949fe964b8179e1a0670d8e4690f7d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA 后端开发 (10106666)" title="IDEA 后端开发 (10106666)"></a>
