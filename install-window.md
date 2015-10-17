@@ -6,6 +6,7 @@
 > * Maven：`apache-maven-3.0.5`
 > * Gradle：` gradle-2.3`
 > * Tomcat：`apache-tomcat-7.0.62`
+> * 注：适用用于 ` Intellij  IDEA  14 系列 `
 
 ### 官方系统配置要求
 > *  Microsoft Windows 8/7/Vista/2003/XP (incl.64-bit)
@@ -31,76 +32,73 @@
 > *   Intellij IDEA 安装速度很快，非常简单。基本都是默认下一步即可，如有不同，会有特殊说明。
 
 #### 第1步
-![第1步](images/installs/windows/001.png)
+![第1步](images/installs/windows/i-w-install-one.png)
 #### 第2步
-![第2步](images/installs/windows/002.png)
+![第2步](images/installs/windows/i-w-install-two.png)
 #### 第3步
-![第3步](images/installs/windows/003.png)
+![第3步](images/installs/windows/i-w-install-three.png)
 #### 第4步
-![第4步](images/installs/windows/004.jpg)
+![第4步](images/installs/windows/i-w-install-four.jpg)
 > *  编号1：勾选，表示创建桌面快捷方式。
 > *  编号2：勾选后表示默认打开java文件和groovy使用Intellij IDEA 打开，建议不勾选。
 
 
 ####  第5步
-![第5步](images/installs/windows/005.png)
+![第5步](images/installs/windows/i-w-install-five.png)
 
 ####  第6步
-![第6步](images/installs/windows/006.png)
+![第6步](images/installs/windows/i-w-install-six.png)
 
 ####  第7步
-![第7步](images/installs/windows/007.png)
-> *  安装成功，点击`Fish`立即启动
+![第7步](images/installs/windows/i-w-install-seven.png)
+> * \(^o^)/ 恭喜你! 安装成功，点击`Fish`立即启动,赶紧投入Intellij  IDEA 的怀抱吧。
 
 ### 首次启动
 
 #### 启动画面
-![启动画面](images/installs/windows/008.png)
-#### 第1步
-![启动画面](images/installs/windows/009.jpg)
+![启动画面](images/installs/windows/i-w-set-start-page.png)
+#### 第1步 选择Intellij IDEA 的配置文件
+![启动画面](images/installs/windows/i-w-set-software-config.jpg)
 > * 进入Intellij IDEA 软件的配置文件的选择目录.
-1.新安装的话，是没有这个配置文件的。直接选择'OK'
-2.第二次安装，如果想使用以前Intellij IDEA 的配置文件，请选择①
-> * 这个配置文件默认生成的目录：C:\Users\ `计算机用户名`\\.IntelliJIdea14
+1.如果首次安装，直接选择'OK'。
+2.如果第二次安装，如果想使用以前Intellij IDEA 的配置文件，请选择①
+> * 这个配置文件默认生成的目录：C:\Users\ 用户名\.IntelliJIdea14
 
-#### 第2步
-![第10步](images/installs/windows/110.png)
-> * 输入秘钥。
-> * 下载注册机
-> * 搜索在线注册的网站
-> * 加入QQ群：<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=cf27f5debc95d432ec9192af231e837587949fe964b8179e1a0670d8e4690f7d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA 后端开发 (10106666)" title="IDEA 后端开发 (10106666)"></a>，看群公告获取.
-> * `注：以上破解Intellij IDEA 的方式,仅供个人开发学习使用，请求支持正版`
-> * [购买正版地址](https://www.jetbrains.com/idea/download/)
+#### 第2步 输入秘钥或试用30天
+![第10步](images/installs/windows/i-w-set-license-activation.png)
+> * 上图编号1：购买正版的授权码。如果你是一个有情怀的开发者，请购买正版，支持 一下Intellij IDEA。[官方购买地址](https://www.jetbrains.com/idea/buy/)
+> * 上图编号2：试用30天。适合学生和初次接触的开发者
+> * 注：如果有疑问，请加<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=cf27f5debc95d432ec9192af231e837587949fe964b8179e1a0670d8e4690f7d"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="IDEA 后端开发 (10106666)" title="IDEA 后端开发 (10106666)"></a>。
 
-#### 第3步
-![第11步](images/installs/windows/111.png)
-#### 第4步
-![第12步](images/installs/windows/112.jpg)
-#### 第5步
-![第13步](images/installs/windows/113.png)
+#### 第3步 同意协议
+![第11步](images/installs/windows/i-w-set-accept-agreement.png)
+#### 第4步 选择主题(UI Themes)
+![第12步](images/installs/windows/i-w-set-select-theme.jpg)
+#### 第5步 默认插件（Default plugins）
+![第13步](images/installs/windows/i-w-set-default-plugins.png)
 
-> ##### 对上图的编号中的编号进行简单的讲解
+> ##### 对上图中的编号进行简单的说明
 
-> ##### 编号1
->  ![第13步](images/installs/windows/114.png)
-> ##### 编号2
->  ![第13步](images/installs/windows/115.png)
-> ##### 编号3
->  ![第13步](images/installs/windows/116.png)
-> ##### 编号4
->  ![第13步](images/installs/windows/117.png)
-> ##### 编号5
->  ![第13步](images/installs/windows/118.png)
-> ##### 编号6
->  ![第13步](images/installs/windows/119.png)
-> ##### 编号7
->  ![第13步](images/installs/windows/120.png)
-> ##### 编号11
->  ![第13步](images/installs/windows/121.png)
-#### 第6步
-![第14步](images/installs/windows/122.png)
-#### 第7步
-![第15步](images/installs/windows/123.png)
+> ##### 编号1 :Java Frameworks
+>  ![第13步](images/installs/windows/i-w-set-default-plugins-java-frameworks.png)
+> ##### 编号2 :Build Tools
+>  ![第13步](images/installs/windows/i-w-set-defualt-plugins-build-tools.png)
+> ##### 编号3 :Web Development
+>  ![第13步](images/installs/windows/i-w-set-defualt-plugins-web-development.png)
+> ##### 编号4 :Version Controls
+>  ![第13步](images/installs/windows/i-w-set-defualt-plugins-version-controls.png)
+> ##### 编号5 :Test Tools
+>  ![第13步](images/installs/windows/i-w-set-defualt-plugins-test-tools.png)
+> ##### 编号6 :Application servers
+>  ![第13步](images/installs/windows/i-w-set-defualt-plugins-application-servers.png)
+> ##### 编号7 :Clouds
+>  ![第13步](images/installs/windows/i-w-set-defualt-plugins-clouds.png)
+> ##### 编号11 :Other Tools
+>  ![第13步](images/installs/windows/i-w-set-defualt-plugins-other-tools.png)
+#### 第6步 功能插件 （featured plugins）
+![第14步](images/installs/windows/i-w-set-featured-plugins.png)
+#### 第7步 进入 Intellij  IDEA  欢迎界面
+![第15步](images/installs/windows/i-w-set-welcome-to-Intellij-idea.png)
 
 ## 已有旧版本安装新版本
 
